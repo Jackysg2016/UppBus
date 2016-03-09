@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  PopupViewController.h
 //  UppBus
 //
 //  Created by Pablo García-Nieto Rodríguez  on 23/1/16.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface PopupViewController : UIViewController
 
 @end
-
