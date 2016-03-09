@@ -2,8 +2,8 @@
 
 iOS application client using Uppsala-UL-API displaying nearby stops, lines filtering and real time bus arrivals.
 
-![moving picture](http://i.imgur.com/by3tKLA.jpg)
+<img src="http://i.imgur.com/by3tKLA.jpg" align="left"  width="250px" >
 
-![moving picture](http://i.imgur.com/ygKlxUN.jpg)
+<img src="http://i.imgur.com/ygKlxUN.jpg" align="left"  width="250px" >
 
-![moving picture](http://i.imgur.com/AfE0HfK.jpg)
+<img src="http://i.imgur.com/AfE0HfK.jpg" align="left"  width="250px" >
